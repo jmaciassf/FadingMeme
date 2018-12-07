@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fading Meme Generator</string>
+    <string name="heightLine">190dp</string>
+    <string name="facebook_app_id">468180153687502</string>
+</resources>
